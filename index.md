@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Bootstrap 4 Github Pages
+title: Travel The World
 ---
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/nicolas-van/bootstrap-4-github-pages?style=social)](https://github.com/nicolas-van/bootstrap-4-github-pages)
