@@ -104,7 +104,7 @@ Like this project ? [Consider adding a star on Github](https://github.com/nicola
 * [dariusnwadike.github.io](https://dariusnwadike.github.io/)
 * [libcoap.net](https://libcoap.net/)
 
-## Other Github Pages related projects
+## I just wanna test this
 
 I'm a fan of Github Pages for the possibilities it offers to anyone to publish a website for free. I have multiple projects that could be of interest if that's your case too:
 
